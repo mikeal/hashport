@@ -1,0 +1,15 @@
+{
+  "name": "hashport",
+  "version": "0.1.0",
+  "description": "Hash a string to an accessible port. Prone to duplicates.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mikeal/hashport.git"
+  },
+  "author": "Mikeal Rogers",
+  "license": "BSD"
+}
